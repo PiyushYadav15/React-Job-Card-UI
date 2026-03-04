@@ -1,6 +1,6 @@
 # React-Job-Card-UI
 
-# 🚀 React Job Card UI 
+# 🚀 React Job Card UI
 
 A modern **Job Listing Card UI** built using **React.js** demonstrating core React concepts like **Components, Props, and Array Mapping**.
 
